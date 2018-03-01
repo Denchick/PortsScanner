@@ -1,0 +1,11 @@
+C:\Users\Volkov\YandexDisk\Учеба\Shpora\shpora2018\NMAP\bin\Release\NMAP.exe.config
+C:\Users\Volkov\YandexDisk\Учеба\Shpora\shpora2018\NMAP\bin\Release\NMAP.exe
+C:\Users\Volkov\YandexDisk\Учеба\Shpora\shpora2018\NMAP\bin\Release\NMAP.pdb
+C:\Users\Volkov\YandexDisk\Учеба\Shpora\shpora2018\NMAP\bin\Release\log4net.dll
+C:\Users\Volkov\YandexDisk\Учеба\Shpora\shpora2018\NMAP\bin\Release\nunit.framework.dll
+C:\Users\Volkov\YandexDisk\Учеба\Shpora\shpora2018\NMAP\bin\Release\log4net.xml
+C:\Users\Volkov\YandexDisk\Учеба\Shpora\shpora2018\NMAP\bin\Release\nunit.framework.xml
+C:\Users\Volkov\YandexDisk\Учеба\Shpora\shpora2018\NMAP\obj\Release\NMAP.csprojResolveAssemblyReference.cache
+C:\Users\Volkov\YandexDisk\Учеба\Shpora\shpora2018\NMAP\obj\Release\NMAP.csproj.CoreCompileInputs.cache
+C:\Users\Volkov\YandexDisk\Учеба\Shpora\shpora2018\NMAP\obj\Release\NMAP.exe
+C:\Users\Volkov\YandexDisk\Учеба\Shpora\shpora2018\NMAP\obj\Release\NMAP.pdb
